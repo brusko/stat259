@@ -2,7 +2,7 @@
 layout: page
 title: References
 ---
-
+  
 <p class="message">
   Reproducible and Collaborative Statistical Data Science
 </p>
